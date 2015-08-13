@@ -6,10 +6,10 @@ You can use this to enable the dark variant of your current desktop theme for At
 This package is inspired by and is based off of the [GTKDarkThemeVariantSetter](https://github.com/p-e-w/GTKDarkThemeVariantSetter) plugin for Sublime Text. Credit should be given to [Philipp Weidmann](http://github.com/p-e-w) for the steps to modify an open window's theme.
 
 ### Before (GNOME 3):
-![Before](images/before.png)
+![Before](https://raw.githubusercontent.com/coderstephen/atom-gtk-dark-theme/master/images/before.png)
 
 ### After:
-![After](images/after.png)
+![After](https://raw.githubusercontent.com/coderstephen/atom-gtk-dark-theme/master/images/after.png)
 
 ## Installation
 Via `apm`:
