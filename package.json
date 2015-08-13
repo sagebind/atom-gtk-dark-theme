@@ -1,7 +1,7 @@
 {
   "name": "gtk-dark-theme",
   "main": "./lib/gtk-dark-theme",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Toggles the dark theme variant for Atom windows on GTK+ 3",
   "keywords": [
     "gtk",
